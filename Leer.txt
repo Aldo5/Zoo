@@ -1,2 +1,2 @@
 EL archivo principal se trabajaran los cambios por medio de github, sin embargo las texturas y objetos se agregaran a una carpeta drive 
-la cual tiene como enlace: https://drive.google.com/drive/folders/1JcQ4PWhC-_5E3XXDSjyGSmUb-10CQtvs?usp=share_link
+la cual tiene como enlace: https://drive.google.com/drive/u/2/folders/1AAb-78RkEL6ejt_o0lPHFXaRRtVONkV8
